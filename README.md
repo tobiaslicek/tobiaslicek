@@ -109,14 +109,14 @@ I'm a passionate Full Stack Web Developer with a background in a variety of prog
 
 ## Education
 
-- **Robot Dreams Czech** (October 2023 - February 2024)
+- **Robot_dreams Czech** (October 2023 - February 2024)
   - Front-end Developer course focused on JavaScript, TypeScript, and React.js.
 
 - **Coding Bootcamp Praha** (January 2023 - March 2023)
   - Intensive full-time bootcamp covering full-stack web application development.
 
 - **Palacký University, Olomouc** (September 2018 - Present)
-  - Studying Psychology at the Faculty of Arts.
+  - Studying Psychology at the Faculty of Philosophy.
 
 ---
 
@@ -125,21 +125,18 @@ I'm a passionate Full Stack Web Developer with a background in a variety of prog
 - **Programmer | Bohumín** (September 2023 - Present)
   - Full Stack Programmer and Tester, specializing in PHP, MySQL, HTML, CSS, Bootstrap, and JavaScript.
 
- - **Student | BOlomouc** (2018 - 2023)
-  - Full Stack Programmer and Tester, specializing in PHP, MySQL, HTML, CSS, Bootstrap, and JavaScript.
-
 - **Barista & Server** (March 2016 - January 2023)
   - Worked in hospitality, balancing part-time work with my studies and coding projects.
 
 ---
 
-- 🌱 I’m currently learning Typescript & React via robot_dreams online course
+- 🌱 I’m currently learning Typescript & React via Robot_dreams online course
 
 ---
 
 ## Technical Skills
 
-- **Languages**: HTML, CSS, JavaScript, PHP
+- **Languages**: HTML, CSS, JavaScript, PHP, TypeScript
 - **Databases**: MySQL
 - **Frameworks/Libraries**: Bootstrap, React.js (currently learning)
 - **Tools**: Git, GitHub, GitLab
