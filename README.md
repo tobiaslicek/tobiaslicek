@@ -1,4 +1,4 @@
-# ⌨️ Hi, I'm Tobiáš Licek!
+# ⌨️ Hi, I'm Tobiáš Licek
 
 ### Full Stack Web Developer | Lifelong Learner | Tech Enthusiast
 
