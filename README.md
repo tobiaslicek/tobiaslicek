@@ -14,6 +14,7 @@ I'm a passionate Full Stack Web Developer with a background in a variety of prog
 
 <img
       align="left"
+      title="JavaScript"
       alt="JavaScript Logo"
       width="30px"
       style="padding-right: 10px"
@@ -21,6 +22,7 @@ I'm a passionate Full Stack Web Developer with a background in a variety of prog
     />
     <img
       align="left"
+      title="TypeScript"   
       alt="TypeScript Logo"
       width="30px"
       style="padding-right: 10px"
@@ -28,6 +30,7 @@ I'm a passionate Full Stack Web Developer with a background in a variety of prog
     />
     <img
       align="left"
+      title="React"
       alt="React Logo"
       width="30px"
       style="padding-right: 10px"
@@ -35,6 +38,7 @@ I'm a passionate Full Stack Web Developer with a background in a variety of prog
     />
     <img
       align="left"
+      title="PHP"
       alt="PHP Logo"
       width="30px"
       style="padding-right: 10px"
@@ -42,6 +46,7 @@ I'm a passionate Full Stack Web Developer with a background in a variety of prog
     />
     <img
       align="left"
+      title="HTML"
       alt="HTML Logo"
       width="30px"
       style="padding-right: 10px"
@@ -49,6 +54,7 @@ I'm a passionate Full Stack Web Developer with a background in a variety of prog
     />
     <img
       align="left"
+      title="CSS"
       alt="CSS Logo"
       width="30px"
       style="padding-right: 10px"
@@ -56,6 +62,7 @@ I'm a passionate Full Stack Web Developer with a background in a variety of prog
     />
     <img
       align="left"
+      title="Bootstrap"
       alt="Bootstrap Logo"
       width="30px"
       style="padding-right: 10px"
@@ -63,6 +70,7 @@ I'm a passionate Full Stack Web Developer with a background in a variety of prog
     />
     <img
       align="left"
+      title="Git"
       alt="Git Logo"
       width="30px"
       style="padding-right: 10px"
@@ -70,6 +78,7 @@ I'm a passionate Full Stack Web Developer with a background in a variety of prog
     />
     <img
       align="left"
+      title="GitHub"
       alt="GitHub Logo"
       width="30px"
       style="padding-right: 10px"
@@ -77,6 +86,7 @@ I'm a passionate Full Stack Web Developer with a background in a variety of prog
     />
     <img
       align="left"
+      title="GitLab"
       alt="GitLab Logo"
       width="30px"
       style="padding-right: 10px"
@@ -84,6 +94,7 @@ I'm a passionate Full Stack Web Developer with a background in a variety of prog
     />
     <img
       align="left"
+      title="VSCode"
       alt="VSCode Logo"
       width="30px"
       style="padding-right: 10px"
@@ -91,6 +102,7 @@ I'm a passionate Full Stack Web Developer with a background in a variety of prog
     />
     <img
       align="left"
+      title="JetBrains"
       alt="JetBrains Logo"
       width="30px"
       style="padding-right: 10px"
@@ -98,6 +110,7 @@ I'm a passionate Full Stack Web Developer with a background in a variety of prog
     />
     <img
       align="left"
+      title="Figma"
       alt="Figma Logo"
       width="30px"
       style="padding-right: 10px"
