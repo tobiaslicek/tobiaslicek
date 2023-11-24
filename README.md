@@ -2,7 +2,7 @@
 
 ### Full Stack Web Developer | Lifelong Learner | Tech Enthusiast
 
-🌐 <a href="https://www.linkedin.com/in/tobiaslicek/" target="_blank">LinkedIn</a> | 📧 tobiaslicek@seznam.cz
+🌐 <a href="https://www.linkedin.com/in/tobiaslicek/" target="_blank">LinkedIn</a> | Email me here 📧  tobiaslicek@seznam.cz
 
 ---
 
