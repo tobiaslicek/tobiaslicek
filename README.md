@@ -126,7 +126,21 @@ I'm a passionate Full Stack Web Developer with a background in a variety of prog
     />
     <br/>
 
+
 ###
+
+## Work Experience
+
+- **Frontend Developer | Teplice** (September 2023 - Present)
+  - Frontend Web and Drupal Developer; specializing in SCSS, Drupal and HTML.
+
+- **Programmer | Bohumín** (September 2023 - Present)
+  - Full Stack Programmer and Tester; specializing in PHP, MySQL, HTML, CSS, Bootstrap, and JavaScript.
+
+- **Barista & Server** (March 2016 - January 2023)
+  - Worked in hospitality; balancing part-time work with my studies and coding projects.
+
+---
 
 ## Education
 
@@ -136,18 +150,8 @@ I'm a passionate Full Stack Web Developer with a background in a variety of prog
 - **Coding Bootcamp Praha** (January 2023 - March 2023)
   - Intensive full-time bootcamp covering full-stack web application development.
 
-- **Palacký University, Olomouc** (September 2018 - Present)
+- **Palacký University, Olomouc** (September 2018 - February 2024)
   - Studying Psychology at the Faculty of Philosophy.
-
----
-
-## Work Experience
-
-- **Programmer | Bohumín** (September 2023 - Present)
-  - Full Stack Programmer and Tester, specializing in PHP, MySQL, HTML, CSS, Bootstrap, and JavaScript.
-
-- **Barista & Server** (March 2016 - January 2023)
-  - Worked in hospitality, balancing part-time work with my studies and coding projects.
 
 ---
 
