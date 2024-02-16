@@ -62,6 +62,14 @@ I'm a passionate Full Stack Web Developer with a background in a variety of prog
     />
     <img
       align="left"
+      title="TypeScript"   
+      alt="TypeScript Logo"
+      width="30px"
+      style="padding-right: 10px"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"
+    />
+    <img
+      align="left"
       title="Bootstrap"
       alt="Bootstrap Logo"
       width="30px"
