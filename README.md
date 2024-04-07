@@ -132,7 +132,7 @@ I'm a passionate Full Stack Web Developer with a background in a variety of prog
 ## Work Experience
 
 - **Frontend Developer | Teplice** (September 2023 - Present)
-  - Frontend Web and Drupal Developer; specializing in SCSS, Drupal and HTML.
+  - Frontend Web and Drupal Developer; specializing in Drupal, SCSS and HTML.
 
 - **Programmer | Bohumín** (September 2023 - Present)
   - Full Stack Programmer and Tester; specializing in PHP, MySQL, HTML, CSS, Bootstrap, and JavaScript.
@@ -161,7 +161,8 @@ I'm a passionate Full Stack Web Developer with a background in a variety of prog
 
 ## Technical Skills
 
-- **Languages**: HTML, CSS, JavaScript, PHP, TypeScript
+- **Languages**: JavaScript, PHP, TypeScript, HTML, CSS
+- **CMS**: Drupal
 - **Databases**: MySQL
 - **Frameworks/Libraries**: Bootstrap, React.js (currently learning)
 - **Tools**: Git, GitHub, GitLab
