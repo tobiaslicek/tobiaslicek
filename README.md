@@ -12,7 +12,7 @@ I'm a passionate Full Stack Web Developer with a background in a variety of prog
 
 ---
 
-<img
+[<img
       align="left"
       title="JavaScript"
       alt="JavaScript Logo"
@@ -43,7 +43,7 @@ I'm a passionate Full Stack Web Developer with a background in a variety of prog
       width="30px"
       style="padding-right: 10px"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"
-    />
+    />](url)
     <img
       align="left"
       title="HTML"
