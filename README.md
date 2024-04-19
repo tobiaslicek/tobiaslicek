@@ -8,7 +8,7 @@
 
 ## About Me
 
-I'm a passionate Full Stack Web Developer with a background in a variety of programming languages and technologies. Currently, I'm working as a Programmer in Ostrava, where I mainly focus on Front-end development and Drupal. My journey in tech started at the Coding Bootcamp Praha, and I've been on an exciting path of continuous learning and improvement ever since.
+I'm a passionate Frontend Web Developer with a background in a variety of programming languages and technologies. Currently, I'm working as a Programmer in Ostrava, where I mainly focus on Front-end development and Drupal. My journey in tech started at the Coding Bootcamp Praha, and I've been on an exciting path of continuous learning and improvement ever since.
 
 ---
 
