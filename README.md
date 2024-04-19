@@ -12,7 +12,7 @@ I'm a passionate Full Stack Web Developer with a background in a variety of prog
 
 ---
 
-[<img
+<img
       align="left"
       title="JavaScript"
       alt="JavaScript Logo"
