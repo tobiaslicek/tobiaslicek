@@ -22,30 +22,6 @@ I'm a passionate Full Stack Web Developer with a background in a variety of prog
     />
     <img
       align="left"
-      title="TypeScript"   
-      alt="TypeScript Logo"
-      width="30px"
-      style="padding-right: 10px"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"
-    />
-    <img
-      align="left"
-      title="React"
-      alt="React Logo"
-      width="30px"
-      style="padding-right: 10px"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-    />
-    <img
-      align="left"
-      title="PHP"
-      alt="PHP Logo"
-      width="30px"
-      style="padding-right: 10px"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"
-    />](url)
-    <img
-      align="left"
       title="HTML"
       alt="HTML Logo"
       width="30px"
