@@ -28,6 +28,14 @@ I'm a passionate Frontend Web Developer with a background in a variety of progra
       style="padding-right: 10px"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"
     />
+       <img
+      align="left"
+      title="Sass"   
+      alt="Sass Logo"
+      width="30px"
+      style="padding-right: 10px"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"
+    />
     <img
       align="left"
       title="CSS"
@@ -38,19 +46,19 @@ I'm a passionate Frontend Web Developer with a background in a variety of progra
     />
     <img
       align="left"
-      title="TypeScript"   
-      alt="TypeScript Logo"
-      width="30px"
-      style="padding-right: 10px"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"
-    />
-    <img
-      align="left"
       title="Bootstrap"
       alt="Bootstrap Logo"
       width="30px"
       style="padding-right: 10px"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"
+    />
+       <img
+      align="left"
+      title="Drupal"   
+      alt="Drupal Logo"
+      width="30px"
+      style="padding-right: 10px"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/drupal/drupal-plain.svg"
     />
     <img
       align="left"
