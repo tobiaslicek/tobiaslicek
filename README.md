@@ -115,8 +115,11 @@ I'm a passionate Frontend Web Developer with a background in a variety of progra
 
 ## Work Experience
 
-- **Frontend Developer | Teplice** (September 2023 - Present)
-  - Frontend Web and Drupal Developer; specializing in Drupal, SCSS and HTML.
+- **Frontend Developer | Pardubice** (May 2023 - Present)
+  - Frontend and Drupal Web Developer; specializing in Less and HTML + Drupal.
+  - 
+- **Frontend Developer | Teplice** (February 2023 - Present)
+  - Frontend and Drupal Web Developer; specializing in Drupal, SCSS and HTML.
 
 - **Programmer | Bohumín** (September 2023 - Present)
   - Full Stack Programmer and Tester; specializing in PHP, MySQL, HTML, CSS, Bootstrap, and JavaScript.
