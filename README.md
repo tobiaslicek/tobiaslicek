@@ -117,7 +117,7 @@ I'm a passionate Frontend + Drupal Web Developer with a background in a variety 
 
 - **Frontend Developer | Pardubice** (May 2023 - Present)
   - Frontend and Drupal Web Developer; specializing in Less and HTML + Drupal.
-  - 
+    
 - **Frontend Developer | Teplice** (February 2023 - Present)
   - Frontend and Drupal Web Developer; specializing in Drupal, SCSS and HTML.
 
