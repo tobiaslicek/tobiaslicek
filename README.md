@@ -1,6 +1,6 @@
 # ⌨️ Hi, I'm Tobiáš Licek
 
-### Full Stack Web Developer | Lifelong Learner | Tech Enthusiast
+### Frontend Web Developer | Lifelong Learner | Tech Enthusiast
 
 🌐 <a href="https://www.linkedin.com/in/tobiaslicek/" target="_blank">LinkedIn</a> | Email me here 📧  tobiaslicek@seznam.cz
 
