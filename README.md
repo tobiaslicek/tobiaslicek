@@ -152,15 +152,15 @@ I'm a passionate Frontend + Drupal Web Developer with a background in a variety 
 - **CMS**: Drupal
 - **Databases**: MySQL
 - **Frameworks/Libraries**: Bootstrap, React.js (currently learning)
-- **Tools**: Git, GitHub, GitLab
+- **Tools**: Git, GitHub, GitLab, BitBUcket, Jira, VSCode, PhpStorm
 
 ---
 
 ## Languages
 
 - English (Fluent)
-- German (Basic)
 - Czech (Native)
+- German (Basic)
 
 
 
