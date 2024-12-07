@@ -74,8 +74,6 @@ I'm a passionate Frontend + Drupal Web Developer with a background in a variety 
       alt="Git Logo"
       width="30px"
       style="padding-right: 10px"
-      style="display: inline-block"
-      style="margin-top: 5px"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
     />
     <img
