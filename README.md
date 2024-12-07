@@ -17,7 +17,7 @@ I'm a passionate Frontend + Drupal Web Developer with a background in a variety 
       title="JavaScript"
       alt="JavaScript Logo"
       width="30px"
-      style="padding-right: 10px; margin-top: 5px; display: inline-block"
+      style="padding-right: 10px"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
     />
     <img
@@ -73,7 +73,9 @@ I'm a passionate Frontend + Drupal Web Developer with a background in a variety 
       title="Git"
       alt="Git Logo"
       width="30px"
-      style="padding-right: 10px; margin-top: 5px; display: inline-block"
+      style="padding-right: 10px"
+      style="display: inline-block"
+      style="margin-top: 5px"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
     />
     <img
