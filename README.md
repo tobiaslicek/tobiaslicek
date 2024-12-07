@@ -36,6 +36,14 @@ I'm a passionate Frontend + Drupal Web Developer with a background in a variety 
       style="padding-right: 10px"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"
     />
+        <img
+      align="left"
+      title="less"   
+      alt="Less Logo"
+      width="30px"
+      style="padding-right: 10px"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/less/less-plain-wordmark.svg"
+    />
     <img
       align="left"
       title="CSS"
@@ -84,6 +92,14 @@ I'm a passionate Frontend + Drupal Web Developer with a background in a variety 
       style="padding-right: 10px"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"
     />
+        <img
+      align="left"
+      title="Bitbucket"
+      alt="Bitbucket Logo"
+      width="30px"
+      style="padding-right: 10px"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original.svg"
+    />
     <img
       align="left"
       title="VSCode"
@@ -107,6 +123,14 @@ I'm a passionate Frontend + Drupal Web Developer with a background in a variety 
       width="30px"
       style="padding-right: 10px"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
+    />
+       <img
+      align="left"
+      title="Jira"
+      alt="Jira Logo"
+      width="30px"
+      style="padding-right: 10px"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg"
     />
     <br/>
 
