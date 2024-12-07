@@ -134,9 +134,6 @@ I'm a passionate Frontend + Drupal Web Developer with a background in a variety 
     />
     <br/>
 
-
-###
-
 ## Work Experience
 
 - **Frontend Developer | Pardubice** (May 2024 - Present)
