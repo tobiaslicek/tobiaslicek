@@ -133,6 +133,7 @@ I'm a passionate Frontend + Drupal Web Developer with a background in a variety 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg"
     />
     <br/>
+    <br/>
 
 ## Work Experience
 
