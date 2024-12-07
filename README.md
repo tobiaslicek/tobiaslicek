@@ -8,7 +8,7 @@
 
 ## About Me
 
-I'm a passionate Frontend + Drupal Web Developer with a background in a variety of programming languages and technologies. Currently, I'm working as a Programmer in Pardubice, where I mainly focus on Front-end development and Drupal. My journey in tech started at the Coding Bootcamp Praha, and I've been on an exciting path of continuous learning and improvement ever since.
+I'm a passionate Frontend + Drupal Web Developer with a background in a variety of programming languages and technologies. Currently, I'm working as a Programmer in Pardubice, where I mainly focus on Frontend development and Drupal. My journey in tech started at the Coding Bootcamp Praha, and I've been on an exciting path of continuous learning and improvement ever since.
 
 ---
 
@@ -132,7 +132,7 @@ I'm a passionate Frontend + Drupal Web Developer with a background in a variety 
 ## Education
 
 - **Robot_dreams Czech** (October 2023 - February 2024)
-  - Front-end Developer course focused on JavaScript, TypeScript, and React.js.
+  - Frontend Developer course focused on JavaScript, TypeScript, and React.js.
 
 - **Coding Bootcamp Praha** (January 2023 - March 2023)
   - Intensive full-time bootcamp covering full-stack web application development.
