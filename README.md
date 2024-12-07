@@ -152,6 +152,7 @@ I'm a passionate Frontend + Drupal Web Developer with a background in a variety 
 - **CMS**: Drupal
 - **Databases**: MySQL
 - **Frameworks/Libraries**: Bootstrap, React.js (currently learning)
+- **Testing**: Playwright
 - **Tools**: Git, GitHub, GitLab, BitBUcket, Jira, VSCode, PhpStorm
 
 ---
