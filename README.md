@@ -35,8 +35,7 @@ I'm a passionate Frontend + Drupal Web Developer with a background in a variety 
       style="padding-right: 10px"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/drupal/drupal-plain.svg"
     />
-    
-<img
+    <img
       align="left"
       title="JavaScript"
       alt="JavaScript Logo"
