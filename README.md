@@ -70,8 +70,8 @@ I'm a passionate Frontend + Drupal Web Developer with a background in a variety 
       />
              <img
       align="left"
-      title="Jira"
-      alt="Jira Logo"
+      title="Playwright"
+      alt="Playwright Logo"
       width="30px"
       style="padding-right: 10px"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg"
