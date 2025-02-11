@@ -68,6 +68,14 @@ I'm a passionate Frontend + Drupal Web Developer with a background in a variety 
       style="padding-right: 10px"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"
       />
+             <img
+      align="left"
+      title="Jira"
+      alt="Jira Logo"
+      width="30px"
+      style="padding-right: 10px"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg"
+    />
     <img
       align="left"
       title="Git"
