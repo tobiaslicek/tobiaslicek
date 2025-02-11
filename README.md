@@ -11,24 +11,7 @@
 I'm a passionate Frontend + Drupal Web Developer with a background in a variety of programming languages and technologies. Currently, I'm working as a Programmer in Pardubice, where I mainly focus on Frontend development and Drupal. My journey in tech started at the Coding Bootcamp Praha, and I've been on an exciting path of continuous learning and improvement ever since.
 
 ---
-
 <img
-      align="left"
-      title="JavaScript"
-      alt="JavaScript Logo"
-      width="30px"
-      style="padding-right: 10px"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
-    />
-    <img
-      align="left"
-      title="HTML"
-      alt="HTML Logo"
-      width="30px"
-      style="padding-right: 10px"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"
-    />
-       <img
       align="left"
       title="Sass"   
       alt="Sass Logo"
@@ -51,6 +34,23 @@ I'm a passionate Frontend + Drupal Web Developer with a background in a variety 
       width="30px"
       style="padding-right: 10px"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/drupal/drupal-plain.svg"
+    />
+    
+<img
+      align="left"
+      title="JavaScript"
+      alt="JavaScript Logo"
+      width="30px"
+      style="padding-right: 10px"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
+    />
+    <img
+      align="left"
+      title="HTML"
+      alt="HTML Logo"
+      width="30px"
+      style="padding-right: 10px"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"
     />
     <img
       align="left"
