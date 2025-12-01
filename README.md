@@ -37,11 +37,11 @@ I'm a passionate Frontend + Drupal Web Developer with a background in a variety 
     />
     <img
       align="left"
-      title="JavaScript"
-      alt="JavaScript Logo"
+      title="React"
+      alt="React Logo"
       width="30px"
       style="padding-right: 10px"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
     />
     <img
       align="left"
@@ -58,6 +58,14 @@ I'm a passionate Frontend + Drupal Web Developer with a background in a variety 
       width="30px"
       style="padding-right: 10px"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"
+    />
+       <img
+      align="left"
+      title="JavaScript"
+      alt="JavaScript Logo"
+      width="30px"
+      style="padding-right: 10px"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
     />
     <img
       align="left"
