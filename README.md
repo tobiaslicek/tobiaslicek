@@ -69,8 +69,8 @@ I'm a passionate Frontend + Drupal Web Developer with a background in a variety 
     />
         <img
       align="left"
-      title="Tailwind"
-      alt="Tailwind Logo"
+      title="Tailwind CSS"
+      alt="Tailwind CSS Logo"
       width="30px"
       style="padding-right: 10px"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
