@@ -67,6 +67,14 @@ I'm a passionate Frontend + Drupal Web Developer with a background in a variety 
       style="padding-right: 10px"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
     />
+        <img
+      align="left"
+      title="Tailwind"
+      alt="Tailwind Logo"
+      width="30px"
+      style="padding-right: 10px"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
+    />
     <img
       align="left"
       title="Bootstrap"
