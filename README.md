@@ -1,213 +1,54 @@
-# ⌨️ Hi, I'm Tobiáš Licek
+# Tobiáš Licek
 
-### Web Developer | Lifelong Learner | Tech Enthusiast
+Frontend developer from Pardubice, Czech Republic. I build websites end to end, from site structure and UX through design and development to testing and long-term maintenance.
 
-🌐 <a href="https://www.linkedin.com/in/tobiaslicek/" target="_blank">LinkedIn</a> | Email me here 📧  tobiaslicek@seznam.cz
+Since 2024 I have held positions with sole responsibility for the frontend. At VOATT I was responsible for around 200 client websites, including the Prague Airport website, which won Europe's Best Airport Website at the World Travel Tech Awards 2025. Today I look after the websites of all development projects at CFIG Real Estate and also work as an AI Visualization Specialist.
 
----
+[LinkedIn](https://www.linkedin.com/in/tobiaslicek/) | [tobiaslicek@seznam.cz](mailto:tobiaslicek@seznam.cz)
 
-## About Me
+## Tech stack
 
-I'm a passionate Frontend + Drupal Web Developer with a background in a variety of programming languages and technologies. Currently, I'm working as a Programmer in Pardubice, where I mainly focus on Frontend development and Drupal. My journey in tech started at the Coding Bootcamp Praha, and I've been on an exciting path of continuous learning and improvement ever since.
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36" alt="React">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36" alt="TypeScript">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="JavaScript">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" height="36" alt="Astro">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="36" alt="Tailwind CSS">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="36" alt="Sass">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drupal/drupal-original.svg" height="36" alt="Drupal">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" height="36" alt="WordPress">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="36" alt="PHP">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" height="36" alt="Playwright">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="36" alt="Figma">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36" alt="Git">
+</p>
 
----
-<img
-      align="left"
-      title="Sass"   
-      alt="Sass Logo"
-      width="30px"
-      style="padding-right: 10px"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"
-    />
-        <img
-      align="left"
-      title="less"   
-      alt="Less Logo"
-      width="30px"
-      style="padding-right: 10px"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/less/less-plain-wordmark.svg"
-        />
-       <img
-      align="left"
-      title="Drupal"   
-      alt="Drupal Logo"
-      width="30px"
-      style="padding-right: 10px"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/drupal/drupal-plain.svg"
-    />
-    <img
-      align="left"
-      title="React"
-      alt="React Logo"
-      width="30px"
-      style="padding-right: 10px"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
-    />
-    <img
-      align="left"
-      title="HTML"
-      alt="HTML Logo"
-      width="30px"
-      style="padding-right: 10px"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"
-    />
-    <img
-      align="left"
-      title="CSS"
-      alt="CSS Logo"
-      width="30px"
-      style="padding-right: 10px"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"
-    />
-       <img
-      align="left"
-      title="JavaScript"
-      alt="JavaScript Logo"
-      width="30px"
-      style="padding-right: 10px"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
-    />
-        <img
-      align="left"
-      title="Tailwind CSS"
-      alt="Tailwind CSS Logo"
-      width="30px"
-      style="padding-right: 10px"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
-    />
-    <img
-      align="left"
-      title="Bootstrap"
-      alt="Bootstrap Logo"
-      width="30px"
-      style="padding-right: 10px"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"
-      />
-             <img
-      align="left"
-      title="Playwright"
-      alt="Playwright Logo"
-      width="30px"
-      style="padding-right: 10px"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg"
-    />
-    <img
-      align="left"
-      title="Git"
-      alt="Git Logo"
-      width="30px"
-      style="padding-right: 10px"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-    />
-    <img
-      align="left"
-      title="GitHub"
-      alt="GitHub Logo"
-      width="30px"
-      style="padding-right: 10px"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-    />
-    <img
-      align="left"
-      title="GitLab"
-      alt="GitLab Logo"
-      width="30px"
-      style="padding-right: 10px"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"
-    />
-        <img
-      align="left"
-      title="Bitbucket"
-      alt="Bitbucket Logo"
-      width="30px"
-      style="padding-right: 10px"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original.svg"
-    />
-    <img
-      align="left"
-      title="VSCode"
-      alt="VSCode Logo"
-      width="30px"
-      style="padding-right: 10px"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
-    />
-    <img
-      align="left"
-      title="JetBrains"
-      alt="JetBrains Logo"
-      width="30px"
-      style="padding-right: 10px"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg"
-    />
-    <img
-      align="left"
-      title="Figma"
-      alt="Figma Logo"
-      width="30px"
-      style="padding-right: 10px"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
-    />
-       <img
-      align="left"
-      title="Jira"
-      alt="Jira Logo"
-      width="30px"
-      style="padding-right: 10px"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg"
-    />
-    <br/>
-    <br/>
+**Also:** HTML, CSS, Less, Twig, Nette, MySQL, REST API, React Query, Zustand, Jira, Bitbucket, GitLab  
+**AI tools:** Claude, ChatGPT, Cursor, Figma Make, Lovable, Higgsfield
 
-## Work Experience
+## Experience
 
-- **Frontend Developer | Pardubice** (May 2024 - Present)
-  - Frontend and Drupal Web Developer; specializing in Drupal, Less, JavaScript, Twig,..
-    
-- **Frontend Developer | Teplice** (February 2024 - May 2024)
-  - Frontend and Drupal Web Developer; specializing in Drupal, SCSS, JavaScript, Twig,..
+**Web Developer & AI Visualization Specialist**, CFIG Real Estate (Jul 2026 to present)  
+Websites for all of the group's real estate development projects. New sites in Astro, existing ones on WordPress. AI visualizations and video content for marketing.
 
-- **Programmer | Bohumín** (September 2023 - December 2023)
-  - Full Stack Programmer and Tester; specializing in PHP, Nette, Latte, MySQL, Bootstrap, JavaScript, CSS and HTML.
+**Lead Frontend Developer & UI/UX Designer**, VOATT (Oct 2024 to Jun 2026)  
+Frontend of around 200 client websites, mainly the award-winning Prague Airport website (Drupal, Twig). Introduced automated website testing with Playwright together with another developer.
 
-- **Barista & Server** (March 2016 - January 2023)
-  - Worked in hospitality; balancing part-time work with my studies and coding projects.
+**Frontend Developer**, VOATT (May 2024 to Sep 2024)
 
----
+**Frontend & Drupal Developer**, 7labs Technology (Feb 2024 to Jun 2024)
 
-## Education
+**Junior Full-Stack Developer**, WEBMEX PLUS (Sep 2023 to Dec 2023)
 
-- **Robot_dreams Czech** (October 2023 - February 2024)
-  - Frontend Developer course focused on JavaScript, TypeScript, and React.js.
+## Education and courses
 
-- **Coding Bootcamp Praha** (January 2023 - March 2023)
-  - Intensive full-time bootcamp covering full-stack web application development.
-
-- **Palacký University, Olomouc** (September 2018 - February 2024)
-  - Studying Psychology at the Faculty of Philosophy.
-
----
-
-- 🌱 I’m currently learning Typescript & React via Robot_dreams online course
-
----
-
-## Technical Skills
-
-- **Languages**: JavaScript, PHP, TypeScript, HTML, CSS
-- **CMS**: Drupal
-- **Databases**: MySQL
-- **Frameworks/Libraries**: Bootstrap, React.js (currently learning)
-- **Testing**: Playwright
-- **Tools**: Git, GitHub, GitLab, BitBucket, Jira, VSCode, PhpStorm
-
----
+- React Mentoring, REACTIVDEVS (2025 to present)
+- React Developer, Entership (2025)
+- Full-Stack Developer, Robot_dreams (2025)
+- Frontend Developer, Robot_dreams (2023 to 2024)
+- Full-Stack Web Development, Coding Bootcamp Praha (2023)
+- Psychology, Palacký University Olomouc (2018 to 2023)
 
 ## Languages
 
-- English (Fluent)
-- Czech (Native)
-- German (Basic)
-
-
-
-
+Czech (native), English (professional), German (basic)
